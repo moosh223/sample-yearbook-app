@@ -1,7 +1,7 @@
 <cfinclude template="templates/header.cfm">
 
 <div id="wrapper">
-  <h1>Hello, Little Boy!</h1>
+  <h1>Hello!</h1>
   <p>This is the place for all of your yearbook needs!</p>
 </div>
 

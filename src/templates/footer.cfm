@@ -6,3 +6,5 @@
     </p>
     <p>The code for this site is stored on <a href="https://github.com/moosh223/sample-yearbook-app">this github page</a></p>
 </div>
+</body>
+</html>

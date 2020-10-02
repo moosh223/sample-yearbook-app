@@ -3,7 +3,7 @@
     <title>Yearbook Order for Sheet</title>
     <link type="text/css" rel="stylesheet" href="styles/styles.css" />
 </head>
-
+<body>
 <div id="header">
     <h1>Order a Yearbook from your school!</h1>
     <div id="nav">
