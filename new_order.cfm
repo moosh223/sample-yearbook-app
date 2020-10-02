@@ -1,5 +1,5 @@
 <cfinclude  template="templates/header.cfm">
-<div id="body">
+<div id="wrapper">
     <table>
     <!--- begin html form;
     put action page in the "action" attribute of the form tag. --->

@@ -6,9 +6,10 @@ set the value of the Form.Contract to "No" --->
     
 <!--- Insert the new record --->
 <cfinsert tablename="yearbookorders">
-
+<div id="wrapper">
 <h1>Employee Added</h1>
 <cfoutput> 
     Your order has been placed for #form.name#.
 </cfoutput>
+</div>
 <cflocation  url="index.cfm">

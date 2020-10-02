@@ -1,0 +1,39 @@
+body {
+    background-color: #333333
+}
+#header {
+    background-color: #555555;
+}
+#header h1 {
+    color: #dddddd;
+    text-align: center;
+    padding-top: 10px;
+}
+#nav {
+    padding: 10px 20px; 
+    background-color: #77aaff;
+    display: flex;
+    justify-content: flex-end;
+}
+#nav a { 
+    padding: 10px 20px;
+    margin-right: 10px; 
+    color: #ffffff; 
+    background-color: #333333; 
+    display: flexbox;
+    
+}
+#footer { 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    width: 100%; 
+    text-align: center;
+    background-color: #222222;
+}
+#footer p {
+    color: #ffffff
+}
+#footer a {
+    color: #ffffff
+}

@@ -2,6 +2,7 @@
 <cfinvoke component="models.new" method="getOne" returnvariable="allCustomers">
     <cfinvokeargument  name="id"  value=#url.id#>
 </cfinvoke>
+<div id="wrapper">
 <table>
     <!--- begin html form;
     put action page in the "action" attribute of the form tag. --->
@@ -31,6 +32,7 @@
     </form>
     <!--- end html form --->
     </table>
+</div>
     
     <script>
         <cfif allCustomers.personalize neq 0>

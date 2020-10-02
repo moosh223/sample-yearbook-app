@@ -1,12 +1,7 @@
 <html>
 <head>
     <title>Yearbook Order for Sheet</title>
-    <style>
-        #header {background-color: red;}
-        #nav {padding: 10px 20px; background-color: blue;}
-        #nav a { padding: 10px 20px; color: #ffffff; background-color: #333333; display: inline;}
-        #footer { position: absolute; bottom: 0; left: 0; width: 100%; }
-    </style>
+    <link type="text/css" rel="stylesheet" href="styles/styles.css" />
 </head>
 
 <div id="header">

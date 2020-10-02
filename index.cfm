@@ -1,6 +1,6 @@
 <cfinclude template="templates/header.cfm">
 
-<div>
+<div id="wrapper">
   <h1>Hello, Little Boy!</h1>
   <p>This is the place for all of your yearbook needs!</p>
 </div>
